@@ -2,10 +2,9 @@
 
 ###
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=syamkarni&count_private=true&hide=stars&show_icons=true&line_height=29&theme=radical&rank_icon=github](https://github.com/syamkarni)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syamkarni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![Stat](https://github-readme-stats.vercel.app/api?username=waseemr02&count_private=true&hide=stars&show_icons=true&line_height=29&theme=radical&rank_icon=github)](https://github.com/waseemr02)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemr02&layout=compact&langs_count=8&hide=HTML,PostScript&theme=radical)](https://github.com/waseemr02)
+
 
 ###
 
