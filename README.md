@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Syam Karni and undergrad student</h2>
+<h2 align="left">Hi 👋! I'm Syam Karni an undergrad student</h2>
 
 ###
 
