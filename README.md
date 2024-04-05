@@ -2,8 +2,8 @@
 
 ###
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=waseemr02&count_private=true&hide=stars&show_icons=true&line_height=29&theme=radical&rank_icon=github)](https://github.com/waseemr02)
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemr02&layout=compact&langs_count=8&hide=HTML,PostScript&theme=radical)](https://github.com/waseemr02)
+[![Stat](https://github-readme-stats.vercel.app/api?username=syamkarni&count_private=true&hide=stars&show_icons=true&line_height=29&theme=radical&rank_icon=github)](https://github.com/syamkarni)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamkarni&layout=compact&langs_count=8&hide=HTML,PostScript&theme=radical)](https://github.com/syamkarni)
 
 
 ###
